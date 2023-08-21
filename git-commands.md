@@ -19,6 +19,8 @@
 
 - `git commit -m "commit message"` to save your changes and create a new version of code. -m for a message about something you add (new feature) in this version of code(software)
 
+- `cat <filename>` --> it will show the contant of given file.
+
 
 
 
